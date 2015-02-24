@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Passez en revue les valeurs des attributs de l'assembly
 
-<Assembly: AssemblyTitle("client")> 
+<Assembly: AssemblyTitle("mad-doctor")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("client")> 
+<Assembly: AssemblyProduct("mad-doctor")> 
 <Assembly: AssemblyCopyright("Copyright ©  2015")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-<Assembly: Guid("3a95c3d3-a99b-4b78-89d0-54c7b5434658")> 
+<Assembly: Guid("5936ad32-64e7-4586-a581-c954b4209ce1")> 
 
 ' Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 '
